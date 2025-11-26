@@ -17,13 +17,17 @@ A **Netflix Clone** built using **only HTML and CSS**. This project is a static 
 - Flexbox & Grid for layout
 - CSS animations & transitions
 
+#Project Structure
 Netflix-Clone/
 │
 ├── index.html
 ├── css/
 │   └── style.css
+│
 ├── images/
-└── README.md            
+│
+└── README.md
+
 
 ## Live Demo
 Check out the **Netflix Clone live demo** [here](https://netflix-project-iota-blond.vercel.app/) 
