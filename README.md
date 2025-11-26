@@ -30,7 +30,6 @@ Netflix-Clone/
 │
 └── README.md         # Project documentation
 
-
 ## Live Demo
 Check out the **Netflix Clone live demo** [here](https://netflix-project-iota-blond.vercel.app/) 
 
