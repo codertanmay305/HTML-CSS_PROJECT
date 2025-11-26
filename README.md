@@ -3,7 +3,6 @@
 A **Netflix Clone** built using **only HTML and CSS**. This project is a static front-end replica of the Netflix homepage, showcasing layout, navigation, and styling without any backend functionality.
 
 ## Features
-
 - Fully responsive **homepage layout**.
 - **Navigation bar** with logo and menu items.
 - **Hero section** with background image and call-to-action buttons.
