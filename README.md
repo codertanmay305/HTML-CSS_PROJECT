@@ -21,11 +21,15 @@ A **Netflix Clone** built using **only HTML and CSS**. This project is a static 
 ## Project Structure
 Netflix-Clone/
 │
-├── index.html # Main homepage
+├── index.html        # Main homepage
+│
 ├── css/
-│    └── style.css # Styling for the project
-├── images/ # All images used in the project
-└── README.md # Project documentation
+│   └── style.css     # Styling for the project
+│
+├── images/           # All images used in the project
+│
+└── README.md         # Project documentation
+
 
 ## Live Demo
 Check out the **Netflix Clone live demo** [here](https://netflix-project-iota-blond.vercel.app/) 
