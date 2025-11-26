@@ -23,7 +23,7 @@ Netflix-Clone/
 │
 ├── index.html # Main homepage
 ├── css/
-│ └── style.css # Styling for the project
+│    └── style.css # Styling for the project
 ├── images/ # All images used in the project
 └── README.md # Project documentation
 
